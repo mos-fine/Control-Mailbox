@@ -1,0 +1,157 @@
+{
+  "ca57bed9-dca6-4bfb-94ab-00a19b080442": {
+    "recipient": "rongbaowei4@gmail.com",
+    "name": "张三",
+    "sent_time": "2025-04-14 20:26:59",
+    "opened": true,
+    "replied": false,
+    "opened_time": "2025-04-14 20:27:37"
+  },
+  "5d126717-f98a-4473-8c0e-be4747308d18": {
+    "recipient": "rongbaowei4@gmail.com",
+    "name": "张三",
+    "sent_time": "2025-04-14 20:49:21",
+    "opened": true,
+    "replied": false,
+    "opened_time": "2025-04-14 20:52:27"
+  },
+  "dacf994e-70ea-495c-b3ff-a9e8f959334a": {
+    "recipient": "rongbaowei4@gmail.com",
+    "name": "李四",
+    "sent_time": "2025-04-14 20:49:26",
+    "opened": true,
+    "replied": false,
+    "opened_time": "2025-04-14 20:49:38"
+  },
+  "8c017fa3-99fa-4d94-b3b1-98fb143b7830": {
+    "recipient": "rongbaowei4@gmail.com",
+    "name": "张三",
+    "sent_time": "2025-04-14 20:58:17",
+    "opened": false,
+    "replied": false
+  },
+  "15e0ac18-c4b0-4ca0-ad69-6007b789684d": {
+    "recipient": "rongbaowei4@gmail.com",
+    "name": "李四",
+    "sent_time": "2025-04-14 20:58:22",
+    "opened": true,
+    "replied": false,
+    "opened_time": "2025-04-14 20:58:51"
+  },
+  "f3bf3a0a-07ac-4f27-9771-c1d5dbf5eacf": {
+    "recipient": "rongbaowei4@gmail.com",
+    "name": "张三",
+    "sent_time": "2025-04-14 21:05:13",
+    "opened": true,
+    "replied": false,
+    "opened_time": "2025-04-14 21:06:20"
+  },
+  "4a343f6c-2f98-4ab3-80db-4dccdba4a435": {
+    "recipient": "rongbaowei4@gmail.com",
+    "name": "李四",
+    "sent_time": "2025-04-14 21:05:19",
+    "opened": true,
+    "replied": false,
+    "opened_time": "2025-04-14 21:05:42"
+  },
+  "35c23a9c-9295-45f2-856a-b3a0c1799de1": {
+    "recipient": "rongbaowei4@gmail.com",
+    "name": "张三",
+    "sent_time": "2025-04-14 21:16:52",
+    "opened": false,
+    "replied": false
+  },
+  "18efcfa8-8d41-4710-901d-002865bf7e73": {
+    "recipient": "rongbaowei4@gmail.com",
+    "name": "李四",
+    "sent_time": "2025-04-14 21:16:57",
+    "opened": true,
+    "replied": false,
+    "opened_time": "2025-04-14 21:18:20"
+  },
+  "95bd6e28-dccf-40cd-a866-c527473d7fb2": {
+    "recipient": "OPERATIONS@CEVALOGISTICS.COM",
+    "name": "-",
+    "sent_time": "2025-04-14 22:08:48",
+    "opened": true,
+    "replied": false,
+    "opened_time": "2025-04-14 22:09:11"
+  },
+  "f8697049-18ba-4e34-a6f7-cb5c9e2bf206": {
+    "recipient": "INFO@PRIMESTSUPPORT.COM",
+    "name": "-",
+    "sent_time": "2025-04-17 15:39:50",
+    "opened": false,
+    "replied": false
+  },
+  "2b0257ee-2ad8-4290-a808-0d02930a7244": {
+    "recipient": "OPERATIONS@CEVALOGISTICS.COM",
+    "name": "-",
+    "sent_time": "2025-04-17 15:39:57",
+    "opened": false,
+    "replied": false
+  },
+  "e3841841-ffd8-44c0-af7d-744531ede3ee": {
+    "recipient": "INFO@PRIMESTSUPPORT.COM",
+    "name": "-",
+    "sent_time": "2025-04-17 15:40:04",
+    "opened": false,
+    "replied": false
+  },
+  "2de7640b-fd72-4b45-a26a-bda41877cb36": {
+    "recipient": "ckramer@rivertrade.com",
+    "name": "ckramer",
+    "sent_time": "2025-04-17 15:40:11",
+    "opened": false,
+    "replied": false
+  },
+  "7bc3d3ac-3351-4d5e-8221-08cfece91ee1": {
+    "recipient": "weisst@rivertrade.com",
+    "name": "weisst",
+    "sent_time": "2025-04-17 15:40:18",
+    "opened": false,
+    "replied": false
+  },
+  "7a3f82f1-4fdc-4951-a2ad-18cffa50772d": {
+    "recipient": "tomm@rivertrade.com",
+    "name": "tomm",
+    "sent_time": "2025-04-17 15:40:24",
+    "opened": false,
+    "replied": false
+  },
+  "ca5051c5-bd91-4c88-ac99-2bb5048c07c9": {
+    "recipient": "sittlow@rivertrade.com",
+    "name": "sittlow",
+    "sent_time": "2025-04-17 15:40:31",
+    "opened": false,
+    "replied": false
+  },
+  "d69bd699-b278-4b33-a580-4272a43c0787": {
+    "recipient": "johno@rivertrade.com",
+    "name": "johno",
+    "sent_time": "2025-04-17 15:40:37",
+    "opened": false,
+    "replied": false
+  },
+  "cea74aa6-6da2-4266-b6a1-1c6b071f0e4f": {
+    "recipient": "abudge@rivertrade.com",
+    "name": "abudge",
+    "sent_time": "2025-04-17 15:40:44",
+    "opened": false,
+    "replied": false
+  },
+  "ca57ed5e-4923-49e4-b8ac-f47efbfe6b40": {
+    "recipient": "HUSTON@rivertrade.com",
+    "name": "HUSTON",
+    "sent_time": "2025-04-17 15:40:50",
+    "opened": false,
+    "replied": false
+  },
+  "67942c1c-2f5b-4c6e-8c4a-23d920ae8e5a": {
+    "recipient": "INFO@PRIMESTSUPPORT.COM",
+    "name": "-",
+    "sent_time": "2025-04-17 15:43:38",
+    "opened": false,
+    "replied": false
+  }
+}

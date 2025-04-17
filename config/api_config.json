@@ -1,0 +1,11 @@
+{
+  "daily_count": 50,
+  "target_countries": [],
+  "target_regions": [],
+  "send_time": "09:00",
+  "template_name": "C_template.html",
+  "is_running": false,
+  "last_run_date": "2025-04-17",
+  "last_sent_count": 0,
+  "last_opened_count": 0
+}

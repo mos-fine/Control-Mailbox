@@ -1,0 +1,130 @@
+2025-04-14 20:15:51,823 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.2:5000
+2025-04-14 20:15:51,823 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-14 20:26:59,046 - feedback_server - INFO - 注册了新邮件: ca57bed9-dca6-4bfb-94ab-00a19b080442, 发送给: rongbaowei4@gmail.com
+2025-04-14 20:26:59,047 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 20:26:59] "POST /track/register HTTP/1.1" 200 -
+2025-04-14 20:27:37,001 - feedback_server - INFO - 邮件 ca57bed9-dca6-4bfb-94ab-00a19b080442 已被打开
+2025-04-14 20:27:37,002 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 20:27:37] "[33mGET /track/ca57bed9-dca6-4bfb-94ab-00a19b080442 HTTP/1.1[0m" 404 -
+2025-04-14 20:27:37,194 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 20:27:37] "[33mGET /track/ca57bed9-dca6-4bfb-94ab-00a19b080442 HTTP/1.1[0m" 404 -
+2025-04-14 20:27:37,498 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 20:27:37] "[33mGET /track/ca57bed9-dca6-4bfb-94ab-00a19b080442 HTTP/1.1[0m" 404 -
+2025-04-14 20:27:37,662 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 20:27:37] "OPTIONS /track/ca57bed9-dca6-4bfb-94ab-00a19b080442&random=0 HTTP/1.1" 200 -
+2025-04-14 20:27:37,770 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 20:27:37] "[33mGET /track/ca57bed9-dca6-4bfb-94ab-00a19b080442&random=0 HTTP/1.1[0m" 404 -
+2025-04-14 20:27:38,730 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 20:27:38] "OPTIONS /track/ca57bed9-dca6-4bfb-94ab-00a19b080442&random=1 HTTP/1.1" 200 -
+2025-04-14 20:27:38,884 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 20:27:38] "[33mGET /track/ca57bed9-dca6-4bfb-94ab-00a19b080442&random=1 HTTP/1.1[0m" 404 -
+2025-04-14 20:27:40,118 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 20:27:40] "[33mGET /track/ca57bed9-dca6-4bfb-94ab-00a19b080442&random=2 HTTP/1.1[0m" 404 -
+2025-04-14 20:27:41,320 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 20:27:41] "OPTIONS /track/ca57bed9-dca6-4bfb-94ab-00a19b080442&random=3 HTTP/1.1" 200 -
+2025-04-14 20:27:41,486 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 20:27:41] "[33mGET /track/ca57bed9-dca6-4bfb-94ab-00a19b080442&random=3 HTTP/1.1[0m" 404 -
+2025-04-14 20:37:06,075 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.2:5000
+2025-04-14 20:37:06,075 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-14 20:43:55,506 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 20:43:55] "GET /stats HTTP/1.1" 200 -
+2025-04-14 20:49:21,090 - feedback_server - INFO - 注册了新邮件: 5d126717-f98a-4473-8c0e-be4747308d18, 发送给: rongbaowei4@gmail.com
+2025-04-14 20:49:21,090 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 20:49:21] "POST /track/register HTTP/1.1" 200 -
+2025-04-14 20:49:26,864 - feedback_server - INFO - 注册了新邮件: dacf994e-70ea-495c-b3ff-a9e8f959334a, 发送给: rongbaowei4@gmail.com
+2025-04-14 20:49:26,864 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 20:49:26] "POST /track/register HTTP/1.1" 200 -
+2025-04-14 20:49:31,869 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 20:49:31] "POST /stats/update HTTP/1.1" 200 -
+2025-04-14 20:49:38,760 - feedback_server - INFO - 邮件 dacf994e-70ea-495c-b3ff-a9e8f959334a 已被打开
+2025-04-14 20:49:38,766 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 20:49:38] "GET /track/dacf994e-70ea-495c-b3ff-a9e8f959334a HTTP/1.1" 200 -
+2025-04-14 20:49:39,008 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 20:49:39] "GET /track/dacf994e-70ea-495c-b3ff-a9e8f959334a HTTP/1.1" 200 -
+2025-04-14 20:50:53,553 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 20:50:53] "GET /stats HTTP/1.1" 200 -
+2025-04-14 20:51:25,053 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 20:51:25] "GET /stats HTTP/1.1" 200 -
+2025-04-14 20:52:27,128 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 20:52:27] "GET /track/dacf994e-70ea-495c-b3ff-a9e8f959334a HTTP/1.1" 200 -
+2025-04-14 20:52:27,345 - feedback_server - INFO - 邮件 5d126717-f98a-4473-8c0e-be4747308d18 已被打开
+2025-04-14 20:52:27,345 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 20:52:27] "GET /track/5d126717-f98a-4473-8c0e-be4747308d18 HTTP/1.1" 200 -
+2025-04-14 20:52:27,860 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 20:52:27] "GET /track/5d126717-f98a-4473-8c0e-be4747308d18 HTTP/1.1" 200 -
+2025-04-14 20:52:28,368 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 20:52:28] "GET /track/5d126717-f98a-4473-8c0e-be4747308d18 HTTP/1.1" 200 -
+2025-04-14 20:52:34,414 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 20:52:34] "GET /stats HTTP/1.1" 200 -
+2025-04-14 20:53:05,921 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 20:53:05] "GET /track/5d126717-f98a-4473-8c0e-be4747308d18 HTTP/1.1" 200 -
+2025-04-14 20:58:17,156 - feedback_server - INFO - 注册了新邮件: 8c017fa3-99fa-4d94-b3b1-98fb143b7830, 发送给: rongbaowei4@gmail.com
+2025-04-14 20:58:17,157 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 20:58:17] "POST /track/register HTTP/1.1" 200 -
+2025-04-14 20:58:22,891 - feedback_server - INFO - 注册了新邮件: 15e0ac18-c4b0-4ca0-ad69-6007b789684d, 发送给: rongbaowei4@gmail.com
+2025-04-14 20:58:22,891 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 20:58:22] "POST /track/register HTTP/1.1" 200 -
+2025-04-14 20:58:27,896 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 20:58:27] "POST /stats/update HTTP/1.1" 200 -
+2025-04-14 20:58:51,700 - feedback_server - INFO - 邮件 15e0ac18-c4b0-4ca0-ad69-6007b789684d 已被打开
+2025-04-14 20:58:51,701 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 20:58:51] "GET /track/15e0ac18-c4b0-4ca0-ad69-6007b789684d HTTP/1.1" 200 -
+2025-04-14 20:58:51,950 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 20:58:51] "GET /track/15e0ac18-c4b0-4ca0-ad69-6007b789684d HTTP/1.1" 200 -
+2025-04-14 21:05:13,949 - feedback_server - INFO - 注册了新邮件: f3bf3a0a-07ac-4f27-9771-c1d5dbf5eacf, 发送给: rongbaowei4@gmail.com
+2025-04-14 21:05:13,950 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 21:05:13] "POST /track/register HTTP/1.1" 200 -
+2025-04-14 21:05:19,708 - feedback_server - INFO - 注册了新邮件: 4a343f6c-2f98-4ab3-80db-4dccdba4a435, 发送给: rongbaowei4@gmail.com
+2025-04-14 21:05:19,709 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 21:05:19] "POST /track/register HTTP/1.1" 200 -
+2025-04-14 21:05:24,714 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 21:05:24] "POST /stats/update HTTP/1.1" 200 -
+2025-04-14 21:05:40,086 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 21:05:40] "GET /static/B_2.png HTTP/1.1" 200 -
+2025-04-14 21:05:40,088 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 21:05:40] "GET /static/B_1.jpg HTTP/1.1" 200 -
+2025-04-14 21:05:42,254 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 21:05:42] "[36mGET /static/B_2.png HTTP/1.1[0m" 304 -
+2025-04-14 21:05:42,255 - feedback_server - INFO - 邮件 4a343f6c-2f98-4ab3-80db-4dccdba4a435 已被打开
+2025-04-14 21:05:42,256 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 21:05:42] "GET /track/4a343f6c-2f98-4ab3-80db-4dccdba4a435 HTTP/1.1" 200 -
+2025-04-14 21:05:42,294 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 21:05:42] "[36mGET /static/B_1.jpg HTTP/1.1[0m" 304 -
+2025-04-14 21:05:42,776 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 21:05:42] "GET /track/4a343f6c-2f98-4ab3-80db-4dccdba4a435 HTTP/1.1" 200 -
+2025-04-14 21:06:20,034 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 21:06:20] "GET /track/4a343f6c-2f98-4ab3-80db-4dccdba4a435 HTTP/1.1" 200 -
+2025-04-14 21:06:20,275 - feedback_server - INFO - 邮件 f3bf3a0a-07ac-4f27-9771-c1d5dbf5eacf 已被打开
+2025-04-14 21:06:20,276 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 21:06:20] "GET /track/f3bf3a0a-07ac-4f27-9771-c1d5dbf5eacf HTTP/1.1" 200 -
+2025-04-14 21:06:20,603 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 21:06:20] "[36mGET /static/B_1.jpg HTTP/1.1[0m" 304 -
+2025-04-14 21:06:20,613 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 21:06:20] "[36mGET /static/B_2.png HTTP/1.1[0m" 304 -
+2025-04-14 21:06:20,852 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 21:06:20] "GET /track/f3bf3a0a-07ac-4f27-9771-c1d5dbf5eacf HTTP/1.1" 200 -
+2025-04-14 21:06:21,342 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 21:06:21] "GET /track/f3bf3a0a-07ac-4f27-9771-c1d5dbf5eacf HTTP/1.1" 200 -
+2025-04-14 21:16:52,083 - feedback_server - INFO - 注册了新邮件: 35c23a9c-9295-45f2-856a-b3a0c1799de1, 发送给: rongbaowei4@gmail.com
+2025-04-14 21:16:52,084 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 21:16:52] "POST /track/register HTTP/1.1" 200 -
+2025-04-14 21:16:57,730 - feedback_server - INFO - 注册了新邮件: 18efcfa8-8d41-4710-901d-002865bf7e73, 发送给: rongbaowei4@gmail.com
+2025-04-14 21:16:57,731 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 21:16:57] "POST /track/register HTTP/1.1" 200 -
+2025-04-14 21:17:02,737 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 21:17:02] "POST /stats/update HTTP/1.1" 200 -
+2025-04-14 21:18:18,513 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 21:18:18] "GET /track/f3bf3a0a-07ac-4f27-9771-c1d5dbf5eacf HTTP/1.1" 200 -
+2025-04-14 21:18:18,778 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 21:18:18] "GET /static/C_1.png HTTP/1.1" 200 -
+2025-04-14 21:18:20,698 - feedback_server - INFO - 邮件 18efcfa8-8d41-4710-901d-002865bf7e73 已被打开
+2025-04-14 21:18:20,700 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 21:18:20] "[36mGET /static/C_1.png HTTP/1.1[0m" 304 -
+2025-04-14 21:18:20,700 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 21:18:20] "GET /track/18efcfa8-8d41-4710-901d-002865bf7e73 HTTP/1.1" 200 -
+2025-04-14 21:18:20,787 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 21:18:20] "GET /track/18efcfa8-8d41-4710-901d-002865bf7e73 HTTP/1.1" 200 -
+2025-04-14 22:08:48,374 - feedback_server - INFO - 注册了新邮件: 95bd6e28-dccf-40cd-a866-c527473d7fb2, 发送给: OPERATIONS@CEVALOGISTICS.COM
+2025-04-14 22:08:48,375 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 22:08:48] "POST /track/register HTTP/1.1" 200 -
+2025-04-14 22:08:53,713 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 22:08:53] "POST /stats/update HTTP/1.1" 200 -
+2025-04-14 22:09:10,915 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 22:09:10] "[36mGET /static/C_1.png HTTP/1.1[0m" 304 -
+2025-04-14 22:09:11,075 - feedback_server - INFO - 邮件 95bd6e28-dccf-40cd-a866-c527473d7fb2 已被打开
+2025-04-14 22:09:11,076 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 22:09:11] "GET /track/95bd6e28-dccf-40cd-a866-c527473d7fb2 HTTP/1.1" 200 -
+2025-04-14 22:09:11,192 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 22:09:11] "[36mGET /static/C_1.png HTTP/1.1[0m" 304 -
+2025-04-14 22:09:11,412 - werkzeug - INFO - 127.0.0.1 - - [14/Apr/2025 22:09:11] "GET /track/95bd6e28-dccf-40cd-a866-c527473d7fb2 HTTP/1.1" 200 -
+2025-04-16 15:47:41,946 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.2:5000
+2025-04-16 15:47:41,947 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-16 15:48:05,162 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2025 15:48:05] "GET /stats HTTP/1.1" 200 -
+2025-04-17 15:29:10,829 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.2:5000
+2025-04-17 15:29:10,829 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 15:39:50,442 - feedback_server - INFO - 注册了新邮件: f8697049-18ba-4e34-a6f7-cb5c9e2bf206, 发送给: INFO@PRIMESTSUPPORT.COM
+2025-04-17 15:39:50,444 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 15:39:50] "POST /track/register HTTP/1.1" 200 -
+2025-04-17 15:39:57,343 - feedback_server - INFO - 注册了新邮件: 2b0257ee-2ad8-4290-a808-0d02930a7244, 发送给: OPERATIONS@CEVALOGISTICS.COM
+2025-04-17 15:39:57,344 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 15:39:57] "POST /track/register HTTP/1.1" 200 -
+2025-04-17 15:40:04,758 - feedback_server - INFO - 注册了新邮件: e3841841-ffd8-44c0-af7d-744531ede3ee, 发送给: INFO@PRIMESTSUPPORT.COM
+2025-04-17 15:40:04,758 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 15:40:04] "POST /track/register HTTP/1.1" 200 -
+2025-04-17 15:40:11,476 - feedback_server - INFO - 注册了新邮件: 2de7640b-fd72-4b45-a26a-bda41877cb36, 发送给: ckramer@rivertrade.com
+2025-04-17 15:40:11,476 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 15:40:11] "POST /track/register HTTP/1.1" 200 -
+2025-04-17 15:40:18,430 - feedback_server - INFO - 注册了新邮件: 7bc3d3ac-3351-4d5e-8221-08cfece91ee1, 发送给: weisst@rivertrade.com
+2025-04-17 15:40:18,430 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 15:40:18] "POST /track/register HTTP/1.1" 200 -
+2025-04-17 15:40:24,789 - feedback_server - INFO - 注册了新邮件: 7a3f82f1-4fdc-4951-a2ad-18cffa50772d, 发送给: tomm@rivertrade.com
+2025-04-17 15:40:24,789 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 15:40:24] "POST /track/register HTTP/1.1" 200 -
+2025-04-17 15:40:31,330 - feedback_server - INFO - 注册了新邮件: ca5051c5-bd91-4c88-ac99-2bb5048c07c9, 发送给: sittlow@rivertrade.com
+2025-04-17 15:40:31,330 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 15:40:31] "POST /track/register HTTP/1.1" 200 -
+2025-04-17 15:40:37,898 - feedback_server - INFO - 注册了新邮件: d69bd699-b278-4b33-a580-4272a43c0787, 发送给: johno@rivertrade.com
+2025-04-17 15:40:37,899 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 15:40:37] "POST /track/register HTTP/1.1" 200 -
+2025-04-17 15:40:44,456 - feedback_server - INFO - 注册了新邮件: cea74aa6-6da2-4266-b6a1-1c6b071f0e4f, 发送给: abudge@rivertrade.com
+2025-04-17 15:40:44,456 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 15:40:44] "POST /track/register HTTP/1.1" 200 -
+2025-04-17 15:40:50,798 - feedback_server - INFO - 注册了新邮件: ca57ed5e-4923-49e4-b8ac-f47efbfe6b40, 发送给: HUSTON@rivertrade.com
+2025-04-17 15:40:50,798 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 15:40:50] "POST /track/register HTTP/1.1" 200 -
+2025-04-17 15:42:28,588 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.2:5000
+2025-04-17 15:42:28,588 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-17 15:43:38,796 - feedback_server - INFO - 注册了新邮件: 67942c1c-2f5b-4c6e-8c4a-23d920ae8e5a, 发送给: INFO@PRIMESTSUPPORT.COM
+2025-04-17 15:43:38,797 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2025 15:43:38] "POST /track/register HTTP/1.1" 200 -
+2025-04-17 15:48:01,436 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.2:5000
+2025-04-17 15:48:01,436 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
