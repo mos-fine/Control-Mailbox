@@ -126,9 +126,34 @@ Configuration files are stored in the `config` directory:
 - `recipients.json`: Test recipients list
 - `regions.json`: Region to country mappings
 
+## Environment Configuration
+
+The system uses environment variables for sensitive information such as database credentials and email settings. To set up:
+
+1. Create a `.env` file in the root directory based on the following template:
+   ```
+   # 数据库配置
+   DB_HOST=your_database_host
+   DB_USER=your_database_user
+   DB_PASSWORD=your_database_password
+   DB_NAME=your_database_name
+   
+   # 邮件服务配置
+   SMTP_SERVER=your_smtp_server
+   SMTP_PORT=465
+   IMAP_SERVER=your_imap_server
+   IMAP_PORT=993
+   EMAIL_USERNAME=your_email_username
+   EMAIL_PASSWORD=your_email_password
+   SENDER_NAME=your_sender_name
+   TRACKER_URL=http://localhost:5000
+   ```
+
+2. Ensure the `.env` file is included in your `.gitignore` to prevent sensitive information from being committed to your repository.
+
 ## Security Considerations
 
-- This system stores SMTP/IMAP credentials and database connection details in plaintext within the code. For production use, please implement secure credential management.
+- With the environment variable configuration, sensitive credentials are no longer stored in code.
 - Consider implementing rate limiting to avoid being flagged as spam.
 
 ## License

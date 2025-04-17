@@ -7,16 +7,22 @@
 import mysql.connector
 from mysql.connector import Error
 
+import os
+import sys
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from config_loader import get_db_config
+
 def connect_to_mysql():
     """
     连接到MySQL数据库
     """
+    db_config = get_db_config()
     try:
         connection = mysql.connector.connect(
-            host="8.153.199.241",
-            user="Rex",
-            password="3528846780Rex",
-            database="B2B"
+            host=db_config['host'],
+            user=db_config['user'],
+            password=db_config['password'],
+            database=db_config['database']
         )
         if connection.is_connected():
             print("成功连接到MySQL数据库")

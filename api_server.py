@@ -28,14 +28,11 @@ app = FastAPI(
     version="1.0.0"
 )
 
+# 导入数据库配置
+from config_loader import get_db_config
+
 # 数据库配置
-DB_CONFIG = {
-    'host': '8.153.199.241',
-    'user': 'Rex',
-    'password': '3528846780Rex',
-    'database': 'B2B',
-    'table_name': 'companies'
-}
+DB_CONFIG = get_db_config()
 
 # 全局配置
 EMAIL_TASK_CONFIG = {

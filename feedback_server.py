@@ -11,6 +11,12 @@ import logging
 import json
 from datetime import datetime
 
+# 导入配置加载器
+from config_loader import get_db_config
+
+# 获取数据库配置
+DB_CONFIG = get_db_config()
+
 # 配置日志
 logging.basicConfig(
     level=logging.INFO,
@@ -74,10 +80,10 @@ def track_open(email_id):
             from mysql.connector import Error
             
             connection = mysql.connector.connect(
-                host="8.153.199.241",
-                user="Rex",
-                password="3528846780Rex",
-                database="B2B"
+                host=DB_CONFIG['host'],
+                user=DB_CONFIG['user'],
+                password=DB_CONFIG['password'],
+                database=DB_CONFIG['database']
             )
             
             if connection.is_connected():
@@ -140,10 +146,10 @@ def track_reply():
             from mysql.connector import Error
             
             connection = mysql.connector.connect(
-                host="8.153.199.241",
-                user="Rex",
-                password="3528846780Rex",
-                database="B2B"
+                host=DB_CONFIG['host'],
+                user=DB_CONFIG['user'],
+                password=DB_CONFIG['password'],
+                database=DB_CONFIG['database']
             )
             
             if connection.is_connected():

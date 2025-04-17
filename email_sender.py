@@ -39,28 +39,15 @@ logger = logging.getLogger('email_sender')
 # 确保日志目录存在
 os.makedirs('logs', exist_ok=True)
 
+# 从配置加载器导入配置
+from config_loader import get_email_config, get_db_config
+
 # 邮件配置
-EMAIL_CONFIG = {
-    'smtp_server': 'smtp.vei-mei.com',        # 网易邮箱SMTP服务器
-    'smtp_port': 465,                     # SMTP SSL端口
-    'imap_server': 'imap.vei-mei.com',        # IMAP服务器
-    'imap_port': 993,                     # IMAP SSL端口
-    'username': 'elaine@vei-mei.com',     # 发件人邮箱
-    'password': 'HVVP2Cj9JBHFNxHe',      # 授权码
-    'sender_name': '艾琳',                # 发件人显示名称
-    'tracker_url': 'http://localhost:5000',  # 跟踪服务器地址
-    'verify_ssl': False                   # SSL验证选项，设为False以跳过证书验证
-}
+EMAIL_CONFIG = get_email_config()
 
 # 数据库配置
-DB_CONFIG = {
-    'host': '8.153.199.241',
-    'user': 'Rex',
-    'password': '3528846780Rex',
-    'database': 'B2B',
-    'table_name': 'companies', # 假设表名为contacts，如有不同请修改
-    'batch_size': 1          # 每次从数据库获取的联系人数量
-}
+DB_CONFIG = get_db_config()
+DB_CONFIG['batch_size'] = 1  # 每次从数据库获取的联系人数量
 
 # 存储收件人列表和邮件模板
 RECIPIENTS = []
