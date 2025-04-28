@@ -153,5 +153,1201 @@
     "sent_time": "2025-04-17 15:43:38",
     "opened": false,
     "replied": false
+  },
+  "9b234f4f-726b-42c7-9746-eac4a45b7dfa": {
+    "recipient": "HDOSORIO@GRUPO-EXITO.COM",
+    "name": "-",
+    "sent_time": "2025-04-17 20:00:40",
+    "opened": false,
+    "replied": false
+  },
+  "2569147e-3cec-46a2-b2ae-b077cfbca3b6": {
+    "recipient": "fiscal@grupolevel.com.br",
+    "name": "-",
+    "sent_time": "2025-04-17 20:00:47",
+    "opened": false,
+    "replied": false
+  },
+  "91701e0e-2bee-4835-9f08-9207393e99b2": {
+    "recipient": "fiscal@grupolevel.com.br",
+    "name": "-",
+    "sent_time": "2025-04-17 20:00:48",
+    "opened": false,
+    "replied": false
+  },
+  "24fe89c2-8be8-48d7-9ba5-fb743de08bcb": {
+    "recipient": "IMPORTACAO@EASYCHEF.COM.BR",
+    "name": "-",
+    "sent_time": "2025-04-17 20:00:53",
+    "opened": true,
+    "replied": false,
+    "opened_time": "2025-04-19 15:04:46"
+  },
+  "3e1e5852-0e53-4857-afcd-8a552e5b2d87": {
+    "recipient": "KATIA@LATITUD39.CL",
+    "name": "-",
+    "sent_time": "2025-04-17 20:01:00",
+    "opened": false,
+    "replied": false
+  },
+  "9efd1b0d-78fa-4ea5-aedb-de92ee221836": {
+    "recipient": "KATIA@LATITUD39.CL",
+    "name": "-",
+    "sent_time": "2025-04-17 20:01:01",
+    "opened": false,
+    "replied": false
+  },
+  "d79014a4-e1f7-4eac-b860-aaff5fbfddab": {
+    "recipient": "MARIA.DELEON@BLULOGISTICS.COM",
+    "name": "-",
+    "sent_time": "2025-04-17 20:01:17",
+    "opened": false,
+    "replied": false
+  },
+  "9bd37df6-713d-4e21-ad8e-d2fc22f3d284": {
+    "recipient": "MARIA.DELEON@BLULOGISTICS.COM",
+    "name": "-",
+    "sent_time": "2025-04-17 20:01:18",
+    "opened": true,
+    "replied": false,
+    "opened_time": "2025-04-19 15:04:43"
+  },
+  "f2190e6c-4cc2-457c-894d-be967ec18dfb": {
+    "recipient": "KATIA@LATITUD39.CL",
+    "name": "-",
+    "sent_time": "2025-04-18 21:39:40",
+    "opened": true,
+    "replied": false,
+    "opened_time": "2025-04-19 15:04:20"
+  },
+  "27efe248-36ff-41b6-93ba-1357618b75c6": {
+    "recipient": "HDOSORIO@GRUPO-EXITO.COM",
+    "name": "-",
+    "sent_time": "2025-04-18 21:39:47",
+    "opened": true,
+    "replied": false,
+    "opened_time": "2025-04-19 15:04:32"
+  },
+  "39975ac8-81d0-41be-980b-04fb67a281d2": {
+    "recipient": "MARIA.DELEON@BLULOGISTICS.COM",
+    "name": "-",
+    "sent_time": "2025-04-18 21:39:53",
+    "opened": true,
+    "replied": false,
+    "opened_time": "2025-04-19 15:04:34"
+  },
+  "eac35e04-00c4-4985-9fd4-a2a6cd95bae4": {
+    "recipient": "JASUMAINTERNATIONALTRADING@YAHOO.COM",
+    "name": "-",
+    "sent_time": "2025-04-21 09:00:53",
+    "opened": false,
+    "replied": false
+  },
+  "93fb68d1-1190-495a-8b15-7cea1c0895d5": {
+    "recipient": "CAROL_LCB@YAHOO.COM",
+    "name": "-",
+    "sent_time": "2025-04-21 09:00:59",
+    "opened": false,
+    "replied": false
+  },
+  "2533dfd1-ee76-4093-ad67-814400cd61e1": {
+    "recipient": "fjourdeuil@ascona.fr",
+    "name": "frederic jourdeuil",
+    "sent_time": "2025-04-21 09:01:06",
+    "opened": false,
+    "replied": false
+  },
+  "da564739-8926-444d-9c69-3aad536ad398": {
+    "recipient": "paul.stoddart@bestway.co.uk",
+    "name": "Paul Stoddart",
+    "sent_time": "2025-04-21 09:01:12",
+    "opened": false,
+    "replied": false
+  },
+  "c2882e3c-f791-4b2e-9529-0241cf024b53": {
+    "recipient": "sh@asconagroup.co.uk",
+    "name": "SHANE HIGGON",
+    "sent_time": "2025-04-21 09:01:19",
+    "opened": false,
+    "replied": false
+  },
+  "56eb2fdd-eef3-43e0-b30d-edd3a98d48c5": {
+    "recipient": "christian@ascona.com.ph",
+    "name": "Christian Werdenberg",
+    "sent_time": "2025-04-21 09:01:25",
+    "opened": false,
+    "replied": false
+  },
+  "9b81d545-aa11-49bb-b056-db093fb26ea8": {
+    "recipient": "JOHNHO@HND-FOOD.COM",
+    "name": "-",
+    "sent_time": "2025-04-21 09:01:31",
+    "opened": false,
+    "replied": false
+  },
+  "9f64f316-9582-4e45-95fa-fdd5def70e19": {
+    "recipient": "GOODFAREMARKETING@YAHOO.COM",
+    "name": "-",
+    "sent_time": "2025-04-21 09:01:37",
+    "opened": false,
+    "replied": false
+  },
+  "0c936ce8-ea13-4699-9a10-38b20d90053b": {
+    "recipient": "ESCLUSIVOINC@GMAIL.COM",
+    "name": "-",
+    "sent_time": "2025-04-21 09:01:44",
+    "opened": false,
+    "replied": false
+  },
+  "c8eb7f0c-a11d-416a-964a-8d49d6436539": {
+    "recipient": "SILVIO.C@ESCLUSIVOINC.COM",
+    "name": "-",
+    "sent_time": "2025-04-21 09:01:50",
+    "opened": false,
+    "replied": false
+  },
+  "2b2c77cb-74f7-4334-8e02-2ea24a882c55": {
+    "recipient": "sales11@esclusivoinc.com",
+    "name": "sales11",
+    "sent_time": "2025-04-21 09:02:02",
+    "opened": false,
+    "replied": false
+  },
+  "1b7df70f-fb8b-45cf-9cfb-08e098668d4e": {
+    "recipient": "sales03@esclusivoinc.com",
+    "name": "sales03",
+    "sent_time": "2025-04-21 09:02:08",
+    "opened": false,
+    "replied": false
+  },
+  "9a5396df-0c8d-4b40-a298-04aad7e5f5de": {
+    "recipient": "anand.jagota@esclusivoinc.com",
+    "name": "anand jagota",
+    "sent_time": "2025-04-21 09:02:15",
+    "opened": false,
+    "replied": false
+  },
+  "afce232b-dd2f-4968-adb9-77e64ecfdcac": {
+    "recipient": "customerservice02@esclusivoinc.com",
+    "name": "customerservice02",
+    "sent_time": "2025-04-21 09:02:21",
+    "opened": false,
+    "replied": false
+  },
+  "6b7c058f-b89a-4782-b235-8fc7da2556a6": {
+    "recipient": "customerservice03@esclusivoinc.com",
+    "name": "customerservice03",
+    "sent_time": "2025-04-21 09:02:27",
+    "opened": false,
+    "replied": false
+  },
+  "51c17c66-9b80-4056-91b0-9006872b9197": {
+    "recipient": "accounting02@esclusivoinc.com",
+    "name": "accounting02",
+    "sent_time": "2025-04-21 09:02:33",
+    "opened": false,
+    "replied": false
+  },
+  "d52880aa-b6d6-4632-b128-1335fd83cd82": {
+    "recipient": "sales06@esclusivoinc.com",
+    "name": "sales06",
+    "sent_time": "2025-04-21 09:02:40",
+    "opened": false,
+    "replied": false
+  },
+  "6c121199-552f-4bde-af3a-6acd16aaaa67": {
+    "recipient": "sales02@esclusivoinc.com",
+    "name": "sales02",
+    "sent_time": "2025-04-21 09:02:46",
+    "opened": false,
+    "replied": false
+  },
+  "183dddc3-261d-4038-a4bc-d6f08fcc51bc": {
+    "recipient": "manager@esclusivoinc.com",
+    "name": "manager",
+    "sent_time": "2025-04-21 09:02:52",
+    "opened": false,
+    "replied": false
+  },
+  "7d3aa4f9-c02a-4f12-aa27-fb15c267156c": {
+    "recipient": "accounting04@esclusivoinc.com",
+    "name": "accounting04",
+    "sent_time": "2025-04-21 09:02:58",
+    "opened": true,
+    "replied": false,
+    "opened_time": "2025-04-21 19:59:25"
+  },
+  "08e180a1-9d3e-4ea4-bb01-5d0d9e27b6fb": {
+    "recipient": "JASUMAINTERNATIONALTRADING@YAHOO.COM",
+    "name": "-",
+    "sent_time": "2025-04-22 13:50:07",
+    "opened": false,
+    "replied": false
+  },
+  "14d09196-d38a-48df-b34e-49fd165378bf": {
+    "recipient": "CAROL_LCB@YAHOO.COM",
+    "name": "-",
+    "sent_time": "2025-04-22 13:50:14",
+    "opened": false,
+    "replied": false
+  },
+  "050390a8-dbae-4216-b695-a071f81bd222": {
+    "recipient": "JOHNHO@HND-FOOD.COM",
+    "name": "-",
+    "sent_time": "2025-04-22 13:50:20",
+    "opened": false,
+    "replied": false
+  },
+  "9b8da5e8-f785-4aca-81b3-54bba6a5e41b": {
+    "recipient": "ESCLUSIVOINC@GMAIL.COM",
+    "name": "-",
+    "sent_time": "2025-04-22 13:50:27",
+    "opened": false,
+    "replied": false
+  },
+  "08a48410-6a9f-4181-a839-fa27a3c8518f": {
+    "recipient": "purchasing03@esclusivoinc.com",
+    "name": "purchasing03",
+    "sent_time": "2025-04-22 13:50:39",
+    "opened": false,
+    "replied": false
+  },
+  "6ceb4c7d-7bf8-4c88-81ec-8270c0e7eb70": {
+    "recipient": "walter@esclusivoinc.com",
+    "name": "walter",
+    "sent_time": "2025-04-22 13:50:45",
+    "opened": false,
+    "replied": false
+  },
+  "f398004a-8d52-4200-8a64-62345420d694": {
+    "recipient": "customerservice01@esclusivoinc.com",
+    "name": "customerservice01",
+    "sent_time": "2025-04-22 13:50:51",
+    "opened": false,
+    "replied": false
+  },
+  "8c0b2de6-e87d-43bd-a3fa-6a7c295b6fbe": {
+    "recipient": "online@esclusivoinc.com",
+    "name": "online",
+    "sent_time": "2025-04-22 13:50:58",
+    "opened": false,
+    "replied": false
+  },
+  "82f425f9-4f1e-4003-bfca-93c367136fe9": {
+    "recipient": "purchasing02@esclusivoinc.com",
+    "name": "purchasing02",
+    "sent_time": "2025-04-22 13:51:04",
+    "opened": false,
+    "replied": false
+  },
+  "afb17a31-0185-4464-8260-295af66512d4": {
+    "recipient": "info@esclusivoinc.com",
+    "name": "info",
+    "sent_time": "2025-04-22 13:51:11",
+    "opened": true,
+    "replied": false,
+    "opened_time": "2025-04-22 16:23:52"
+  },
+  "028fd208-ede9-49ff-b031-bfb55494e04f": {
+    "recipient": "sales10@esclusivoinc.com",
+    "name": "sales10",
+    "sent_time": "2025-04-22 13:51:17",
+    "opened": false,
+    "replied": false
+  },
+  "0b46e001-682c-441f-9888-db202e211218": {
+    "recipient": "anand@esclusivoinc.com",
+    "name": "anand",
+    "sent_time": "2025-04-22 13:51:23",
+    "opened": false,
+    "replied": false
+  },
+  "abf43d80-6288-4260-b5e3-7e981924c7f6": {
+    "recipient": "sales05@esclusivoinc.com",
+    "name": "sales05",
+    "sent_time": "2025-04-22 13:51:30",
+    "opened": false,
+    "replied": false
+  },
+  "7310dc71-983c-46f7-b56c-c1abc2abee74": {
+    "recipient": "purchasing01@esclusivoinc.com",
+    "name": "purchasing01",
+    "sent_time": "2025-04-22 13:51:36",
+    "opened": false,
+    "replied": false
+  },
+  "e5b1e25c-582c-4688-9d64-73125380962c": {
+    "recipient": "sales09@esclusivoinc.com",
+    "name": "sales09",
+    "sent_time": "2025-04-22 13:51:43",
+    "opened": true,
+    "replied": false,
+    "opened_time": "2025-04-22 16:14:27"
+  },
+  "34d8c847-e3d2-44b0-a9cd-b388c16f1635": {
+    "recipient": "silvio@esclusivoinc.com",
+    "name": "silvio",
+    "sent_time": "2025-04-22 13:51:49",
+    "opened": false,
+    "replied": false
+  },
+  "d01c45b3-0d2b-46bc-b757-f0133fa099e5": {
+    "recipient": "DFMANILA@DIZONFARMS.NET",
+    "name": "-",
+    "sent_time": "2025-04-22 13:51:56",
+    "opened": false,
+    "replied": false
+  },
+  "3f14ab39-264a-4c71-8b36-0def0d7c1d32": {
+    "recipient": "baylonj@dizonfarms.net",
+    "name": "Jheslyn Baylon",
+    "sent_time": "2025-04-22 13:52:02",
+    "opened": false,
+    "replied": false
+  },
+  "bd74f095-1bff-4e59-bb8c-67d5846db868": {
+    "recipient": "genalin@dizonfarms.net",
+    "name": "Genalin Arguelles",
+    "sent_time": "2025-04-22 13:52:09",
+    "opened": false,
+    "replied": false
+  },
+  "020cd267-b77b-4241-bc73-5b1258ce3d7f": {
+    "recipient": "birose_thorns@yahoo.com",
+    "name": "Roe Ramirez",
+    "sent_time": "2025-04-22 13:52:15",
+    "opened": false,
+    "replied": false
+  },
+  "be84bc86-69f9-42a7-b5cd-a8d8db5f21d2": {
+    "recipient": "CAROL_LCB@YAHOO.COM",
+    "name": "-",
+    "sent_time": "2025-04-22 14:03:14",
+    "opened": true,
+    "replied": false,
+    "opened_time": "2025-04-22 16:14:15"
+  },
+  "ef03bb06-ad45-4b8e-b323-a935eba35d74": {
+    "recipient": "DFMANILA@DIZONFARMS.NET",
+    "name": "-",
+    "sent_time": "2025-04-22 14:03:26",
+    "opened": true,
+    "replied": false,
+    "opened_time": "2025-04-22 16:14:24"
+  },
+  "b6c00a81-eea1-4603-9ab7-a1fb1f7c1d6e": {
+    "recipient": "jdarasin20@yahoo.com",
+    "name": "Jeffrey Darasin",
+    "sent_time": "2025-04-22 14:03:33",
+    "opened": false,
+    "replied": false
+  },
+  "ca436cff-c4fa-418d-a195-5ddb17ad8c54": {
+    "recipient": "manuel@dizonfarms.net",
+    "name": "Lucky Manuel",
+    "sent_time": "2025-04-22 14:03:39",
+    "opened": false,
+    "replied": false
+  },
+  "03669af8-ea09-475c-be66-c54eda11ecd4": {
+    "recipient": "johnoropeza@dizonfarms.net",
+    "name": "John Patrick Oropeza",
+    "sent_time": "2025-04-22 14:03:45",
+    "opened": false,
+    "replied": false
+  },
+  "c8b167ef-5cb8-4135-a12f-837a2220d273": {
+    "recipient": "villar@dizonfarms.net",
+    "name": "Carmelito Villar",
+    "sent_time": "2025-04-22 14:03:52",
+    "opened": false,
+    "replied": false
+  },
+  "9398ccb1-81ad-45a3-86cd-c2b1b1b3e3c5": {
+    "recipient": "jaquino@dizonfarms.net",
+    "name": "Jerico Aquino",
+    "sent_time": "2025-04-22 14:03:59",
+    "opened": false,
+    "replied": false
+  },
+  "727e2466-bec3-406f-b50b-4b7dfecd2014": {
+    "recipient": "jemjan@dizonfarms.net",
+    "name": "Jem Jan",
+    "sent_time": "2025-04-22 14:04:05",
+    "opened": false,
+    "replied": false
+  },
+  "103bcc6a-6097-4a51-8127-2868debbe293": {
+    "recipient": "charmaine.cabardo@dizonfarms.net",
+    "name": "charmaine cabardo",
+    "sent_time": "2025-04-22 14:04:12",
+    "opened": false,
+    "replied": false
+  },
+  "8d4817c1-f04d-43b0-a1dd-2b2a1a9a35b6": {
+    "recipient": "indira.rosaldo@dizonfarms.net",
+    "name": "Indira Rosaldo",
+    "sent_time": "2025-04-22 14:04:18",
+    "opened": false,
+    "replied": false
+  },
+  "51f89aed-9365-4327-b01c-204414348d04": {
+    "recipient": "javiernesto@dizonfarms.net",
+    "name": "javiernesto",
+    "sent_time": "2025-04-22 14:04:25",
+    "opened": false,
+    "replied": false
+  },
+  "406baa85-1e1f-443b-be5b-33a33e2ce56d": {
+    "recipient": "mandresan@dizonfarms.net",
+    "name": "mandresan",
+    "sent_time": "2025-04-22 14:04:31",
+    "opened": false,
+    "replied": false
+  },
+  "6439161d-2027-41a6-b8fa-e1fc30ddaab1": {
+    "recipient": "dracuya@dizonfarms.net",
+    "name": "dracuya",
+    "sent_time": "2025-04-22 14:04:37",
+    "opened": false,
+    "replied": false
+  },
+  "31cd05fe-0bd3-4e76-a612-398f94265033": {
+    "recipient": "cycabardo@dizonfarms.net",
+    "name": "cycabardo",
+    "sent_time": "2025-04-22 14:04:44",
+    "opened": false,
+    "replied": false
+  },
+  "49f0ebcc-b9d4-4333-ad0e-5a75c4f048ac": {
+    "recipient": "mkdeguzman@dizonfarms.net",
+    "name": "mkdeguzman",
+    "sent_time": "2025-04-22 14:04:50",
+    "opened": false,
+    "replied": false
+  },
+  "15ef75e2-50f1-4594-b9ac-87968977ff2e": {
+    "recipient": "danica.s.mosqueda@dizonfarms.net",
+    "name": "danica s mosqueda",
+    "sent_time": "2025-04-22 14:04:57",
+    "opened": true,
+    "replied": false,
+    "opened_time": "2025-04-22 16:23:35"
+  },
+  "85170188-33ea-4055-bbe3-ecf31fae38da": {
+    "recipient": "tmmanginsay@dizonfarms.net",
+    "name": "tmmanginsay",
+    "sent_time": "2025-04-22 14:05:04",
+    "opened": false,
+    "replied": false
+  },
+  "4a0db380-03e6-43d5-a47e-fa961e49976f": {
+    "recipient": "vmercedes@dizonfarms.net",
+    "name": "vmercedes",
+    "sent_time": "2025-04-22 14:05:10",
+    "opened": false,
+    "replied": false
+  },
+  "c7cc8b77-7565-4bdf-8248-0bfca501ebad": {
+    "recipient": "soyao@dizonfarms.net",
+    "name": "soyao",
+    "sent_time": "2025-04-22 14:05:17",
+    "opened": true,
+    "replied": false,
+    "opened_time": "2025-04-22 16:23:32"
+  },
+  "24610c92-f8f5-4be0-af0d-f15ddd2dc056": {
+    "recipient": "pmallari@dizonfarms.net",
+    "name": "pmallari",
+    "sent_time": "2025-04-22 14:05:23",
+    "opened": true,
+    "replied": false,
+    "opened_time": "2025-04-22 16:23:26"
+  },
+  "7b5272dc-5a7c-4bbd-9d71-6ae095a224e2": {
+    "recipient": "DFMANILA@DIZONFARMS.NET",
+    "name": "-",
+    "sent_time": "2025-04-23 15:46:14",
+    "opened": false,
+    "replied": false
+  },
+  "78955d28-1687-4bc5-8794-1995672b1055": {
+    "recipient": "jessamyn.b.tinio@dizonfarms.net",
+    "name": "jessamyn b tinio",
+    "sent_time": "2025-04-23 15:46:21",
+    "opened": false,
+    "replied": false
+  },
+  "13458187-3bbf-48c7-b45d-982003e6f1c2": {
+    "recipient": "irectorydfdavao@dizonfarms.net",
+    "name": "irectorydfdavao",
+    "sent_time": "2025-04-23 15:46:27",
+    "opened": false,
+    "replied": false
+  },
+  "a1b21696-fac7-4ad9-8870-79c1a2521ced": {
+    "recipient": "hr.recruitment@dizonfarms.net",
+    "name": "hr recruitment",
+    "sent_time": "2025-04-23 15:46:33",
+    "opened": false,
+    "replied": false
+  },
+  "8b8c6adb-75c3-4651-a874-26921c62ee66": {
+    "recipient": "aileen.y.echon@dizonfarms.net",
+    "name": "aileen y echon",
+    "sent_time": "2025-04-23 15:46:40",
+    "opened": false,
+    "replied": false
+  },
+  "1c2b7bfa-9364-45e5-a3f5-76116b1d64d7": {
+    "recipient": "ariel.ortiz@dizonfarms.net",
+    "name": "ariel ortiz",
+    "sent_time": "2025-04-23 15:46:47",
+    "opened": false,
+    "replied": false
+  },
+  "38813120-21d1-435e-b8c9-604a66d57d83": {
+    "recipient": "hr.concerns@dizonfarms.net",
+    "name": "hr concerns",
+    "sent_time": "2025-04-23 15:46:55",
+    "opened": false,
+    "replied": false
+  },
+  "2df8ee92-c915-4833-8415-ee741229de00": {
+    "recipient": "pamela.mallari@dizonfarms.net",
+    "name": "pamela mallari",
+    "sent_time": "2025-04-23 15:47:01",
+    "opened": false,
+    "replied": false
+  },
+  "ae422ee3-09cd-48f3-a9d5-45aa8fcb3717": {
+    "recipient": "hr@dizonfarms.net",
+    "name": "hr",
+    "sent_time": "2025-04-23 15:47:07",
+    "opened": false,
+    "replied": false
+  },
+  "3ce56f31-60ef-4522-b65b-a9b962c21a9a": {
+    "recipient": "jbaldeclona@dizonfarms.net",
+    "name": "jbaldeclona",
+    "sent_time": "2025-04-23 15:47:14",
+    "opened": false,
+    "replied": false
+  },
+  "22c952b0-ea49-4c78-9f1e-99aaf2165ab6": {
+    "recipient": "jenelyn.garcia@dizonfarms.net",
+    "name": "jenelyn garcia",
+    "sent_time": "2025-04-23 15:47:20",
+    "opened": false,
+    "replied": false
+  },
+  "4b21ca8f-22b4-43cf-83ae-0b804090b71e": {
+    "recipient": "cignacio@dizonfarms.net",
+    "name": "cignacio",
+    "sent_time": "2025-04-23 15:47:28",
+    "opened": false,
+    "replied": false
+  },
+  "d7e7358d-80cf-46e0-a79a-52b36f91e20c": {
+    "recipient": "maann.a.mari@dizonfarms.net",
+    "name": "maann a mari",
+    "sent_time": "2025-04-23 15:47:34",
+    "opened": false,
+    "replied": false
+  },
+  "0a099c41-18ce-4019-98a6-8c89aaad058f": {
+    "recipient": "kcdelossantos@dizonfarms.net",
+    "name": "kcdelossantos",
+    "sent_time": "2025-04-23 15:47:40",
+    "opened": false,
+    "replied": false
+  },
+  "41f67691-6fd3-4280-8609-d4a0ef2212e2": {
+    "recipient": "dfdavao@dizonfarms.net",
+    "name": "dfdavao",
+    "sent_time": "2025-04-23 15:47:48",
+    "opened": false,
+    "replied": false
+  },
+  "13184b34-b1a7-4c6c-9ad1-7ad501386daa": {
+    "recipient": "rpaban@dizonfarms.net",
+    "name": "rpaban",
+    "sent_time": "2025-04-23 15:47:54",
+    "opened": false,
+    "replied": false
+  },
+  "7c11fc2a-56e2-4e76-82cc-e001cf01a2e2": {
+    "recipient": "cbtan@dizonfarms.net",
+    "name": "cbtan",
+    "sent_time": "2025-04-23 15:48:01",
+    "opened": false,
+    "replied": false
+  },
+  "0aba771c-f38c-4ce1-abc6-8c6ba421fbe8": {
+    "recipient": "rfabarca@dizonfarms.net",
+    "name": "rfabarca",
+    "sent_time": "2025-04-23 15:48:07",
+    "opened": false,
+    "replied": false
+  },
+  "c657fca2-0fd7-4a3f-a651-7a8037be461c": {
+    "recipient": "sales@dizonfarms.net",
+    "name": "sales",
+    "sent_time": "2025-04-23 15:48:14",
+    "opened": false,
+    "replied": false
+  },
+  "704183af-e9ca-438c-8594-792c2aea8370": {
+    "recipient": "rstanguanco@dizonfarms.net",
+    "name": "rstanguanco",
+    "sent_time": "2025-04-23 15:48:20",
+    "opened": false,
+    "replied": false
+  },
+  "b2e01641-cf35-4f21-92da-8a8296a4eecf": {
+    "recipient": "dfmanila@dizonfarms.net",
+    "name": "dfmanila",
+    "sent_time": "2025-04-23 15:48:32",
+    "opened": false,
+    "replied": false
+  },
+  "bea74fa9-b94a-4b44-9ea1-2905a5c6bc20": {
+    "recipient": "johncristophere.j.carlos@dizonfarms.net",
+    "name": "johncristophere j carlos",
+    "sent_time": "2025-04-23 15:48:39",
+    "opened": false,
+    "replied": false
+  },
+  "dd3426af-fd17-4fe9-80c2-99be81bb975d": {
+    "recipient": "jsmith@dizonfarms.net",
+    "name": "jsmith",
+    "sent_time": "2025-04-23 15:48:45",
+    "opened": false,
+    "replied": false
+  },
+  "ed1b7fb7-84b0-4082-a79b-d41be4e544b4": {
+    "recipient": "ariel.o.ortiz@dizonfarms.net",
+    "name": "ariel o ortiz",
+    "sent_time": "2025-04-23 15:48:52",
+    "opened": false,
+    "replied": false
+  },
+  "6a325507-6222-4c2f-965b-166b48990897": {
+    "recipient": "amtanguanco@dizonfarms.net",
+    "name": "amtanguanco",
+    "sent_time": "2025-04-23 15:48:58",
+    "opened": false,
+    "replied": false
+  },
+  "1119b8a1-83f0-47a0-8fe8-87b85bfb9c31": {
+    "recipient": "RHEA.PACATANG@URC.COM.PH",
+    "name": "-",
+    "sent_time": "2025-04-23 15:49:05",
+    "opened": false,
+    "replied": false
+  },
+  "8092579f-74ff-4f21-9dac-ded1fc31a3cb": {
+    "recipient": "RHEA.PACATANG@JGSUMMIT.COM.PH",
+    "name": "-",
+    "sent_time": "2025-04-23 15:49:12",
+    "opened": false,
+    "replied": false
+  },
+  "910212d9-f4a5-48f6-be6e-d110eeeebca1": {
+    "recipient": "IMPORT@INDOGUNA.CO.ID",
+    "name": "-",
+    "sent_time": "2025-04-23 15:49:18",
+    "opened": false,
+    "replied": false
+  },
+  "3a9c0620-ae3a-46f9-98f5-3780e4b70d8d": {
+    "recipient": "HUDSON_TRADING@YAHOO.COM",
+    "name": "-",
+    "sent_time": "2025-04-23 15:49:25",
+    "opened": false,
+    "replied": false
+  },
+  "e02b4327-d3b8-4e37-84e0-03306ac61f1e": {
+    "recipient": "HUDSON_TRADING@YAHOO.COM.PH",
+    "name": "-",
+    "sent_time": "2025-04-23 15:49:31",
+    "opened": false,
+    "replied": false
+  },
+  "d96bb271-fa80-4dd9-b294-8f30b14bfe0b": {
+    "recipient": "DOCUMENT@PANCOMPRODUCE.COM",
+    "name": "-",
+    "sent_time": "2025-04-23 15:49:37",
+    "opened": false,
+    "replied": false
+  },
+  "fef22f43-d38c-420d-9d96-3a970ab94f13": {
+    "recipient": "PRIMEPACIFICFOODS@GMAIL.COM",
+    "name": "-",
+    "sent_time": "2025-04-23 15:49:44",
+    "opened": false,
+    "replied": false
+  },
+  "c16a1e78-47b9-439c-8c8b-8f8318feeeaf": {
+    "recipient": "GLORIE.MARIE@YAHOO.COM",
+    "name": "-",
+    "sent_time": "2025-04-23 15:49:50",
+    "opened": false,
+    "replied": false
+  },
+  "22b32097-4add-4c96-ae96-e6e7cc05e07f": {
+    "recipient": "KATHREENA.CAYAGA2497@GMAIL.COM",
+    "name": "-",
+    "sent_time": "2025-04-23 15:49:57",
+    "opened": false,
+    "replied": false
+  },
+  "c7bb194c-8a8d-413e-a146-e1067e88196e": {
+    "recipient": "KITPIPAT_S@JAGOTA.COM",
+    "name": "-",
+    "sent_time": "2025-04-23 15:50:03",
+    "opened": false,
+    "replied": false
+  },
+  "0e052cf5-e327-4d87-bbcb-53f73eec1b2f": {
+    "recipient": "CVKARYALAUT@GMAIL.COM",
+    "name": "-",
+    "sent_time": "2025-04-23 15:50:10",
+    "opened": false,
+    "replied": false
+  },
+  "99ff8717-b485-4a1b-8764-bd4796d56339": {
+    "recipient": "JASUMAINTERNATIONALTRADING@YAHOO.COM",
+    "name": "-",
+    "sent_time": "2025-04-23 15:50:16",
+    "opened": false,
+    "replied": false
+  },
+  "8cf7a91c-beab-45bc-bf99-6454ad790b4d": {
+    "recipient": "WUKANG@KYXLOGISTICS.COM",
+    "name": "-",
+    "sent_time": "2025-04-23 15:50:23",
+    "opened": false,
+    "replied": false
+  },
+  "eaa78ecd-4243-4b42-9a47-91b6f2714aa7": {
+    "recipient": "NYDCUS@NYD.COM.VN",
+    "name": "-",
+    "sent_time": "2025-04-23 15:50:29",
+    "opened": false,
+    "replied": false
+  },
+  "5ae852db-9ab2-40ab-b813-ef8dc3cb8560": {
+    "recipient": "NYDCUS1@NYD.COM.VN",
+    "name": "-",
+    "sent_time": "2025-04-23 15:50:36",
+    "opened": false,
+    "replied": false
+  },
+  "5d88a255-5f89-4e41-a7be-879ba9515998": {
+    "recipient": "IMPORT@INDOGUNA.CO.ID",
+    "name": "-",
+    "sent_time": "2025-04-24 18:34:47",
+    "opened": false,
+    "replied": false
+  },
+  "1ef292fc-1e05-4c20-a754-3e9bb6ada920": {
+    "recipient": "HUDSON_TRADING@YAHOO.COM",
+    "name": "-",
+    "sent_time": "2025-04-24 18:34:53",
+    "opened": false,
+    "replied": false
+  },
+  "76802194-e2f5-4c4f-8182-b2129fe11e64": {
+    "recipient": "HUDSON_TRADING@YAHOO.COM.PH",
+    "name": "-",
+    "sent_time": "2025-04-24 18:35:00",
+    "opened": false,
+    "replied": false
+  },
+  "2b8b598d-bf9b-42cc-9262-8d8f1e1f90c1": {
+    "recipient": "DOCUMENT@PANCOMPRODUCE.COM",
+    "name": "-",
+    "sent_time": "2025-04-24 18:35:06",
+    "opened": false,
+    "replied": false
+  },
+  "1560e723-e21b-470f-91d7-8543de6a27ce": {
+    "recipient": "PRIMEPACIFICFOODS@GMAIL.COM",
+    "name": "-",
+    "sent_time": "2025-04-24 18:35:12",
+    "opened": false,
+    "replied": false
+  },
+  "ed4ac9e6-e9b9-466e-932a-c0ab12e31175": {
+    "recipient": "GLORIE.MARIE@YAHOO.COM",
+    "name": "-",
+    "sent_time": "2025-04-24 18:35:19",
+    "opened": false,
+    "replied": false
+  },
+  "acace7ca-2684-4e69-ab6f-9470fe8c8bed": {
+    "recipient": "KITPIPAT_S@JAGOTA.COM",
+    "name": "-",
+    "sent_time": "2025-04-24 18:35:27",
+    "opened": false,
+    "replied": false
+  },
+  "7587224c-911f-4a8b-bf83-b668dcb457c1": {
+    "recipient": "CVKARYALAUT@GMAIL.COM",
+    "name": "-",
+    "sent_time": "2025-04-24 18:35:33",
+    "opened": false,
+    "replied": false
+  },
+  "48187b00-3313-4634-8fb5-c428a60e79ce": {
+    "recipient": "JASUMAINTERNATIONALTRADING@YAHOO.COM",
+    "name": "-",
+    "sent_time": "2025-04-24 18:35:39",
+    "opened": false,
+    "replied": false
+  },
+  "299c4f58-07b1-4e2d-9590-1b90367d611e": {
+    "recipient": "WUKANG@KYXLOGISTICS.COM",
+    "name": "-",
+    "sent_time": "2025-04-24 18:35:45",
+    "opened": false,
+    "replied": false
+  },
+  "4406b65a-e506-4f5c-bf98-e509bc412d91": {
+    "recipient": "NYDCUS@NYD.COM.VN",
+    "name": "-",
+    "sent_time": "2025-04-24 18:35:51",
+    "opened": false,
+    "replied": false
+  },
+  "ebd2b384-148d-4b12-aa2b-c5f7e25193b9": {
+    "recipient": "NYDCUS1@NYD.COM.VN",
+    "name": "-",
+    "sent_time": "2025-04-24 18:35:58",
+    "opened": false,
+    "replied": false
+  },
+  "4cda0605-3de6-46a4-814c-781d4a667115": {
+    "recipient": "DANIMPORT@THAMICO.COM",
+    "name": "-",
+    "sent_time": "2025-04-24 18:36:04",
+    "opened": false,
+    "replied": false
+  },
+  "0399c0ab-81ea-4672-a83a-593ce47e1fa3": {
+    "recipient": "IMPORT-DEPT@THAMICO.COM",
+    "name": "-",
+    "sent_time": "2025-04-24 18:36:11",
+    "opened": false,
+    "replied": false
+  },
+  "7814d9eb-dd88-4c77-9c0f-03ed306dc466": {
+    "recipient": "FCL-DEPT4@THAMICO.COM",
+    "name": "-",
+    "sent_time": "2025-04-24 18:36:17",
+    "opened": false,
+    "replied": false
+  },
+  "178e883d-3616-4d80-8dd6-30bea109d27c": {
+    "recipient": "rdavid.legende@gmail.com",
+    "name": "-",
+    "sent_time": "2025-04-24 18:36:24",
+    "opened": false,
+    "replied": false
+  },
+  "5a148863-b929-4927-b94e-6f4567e9e3ef": {
+    "recipient": "DFMANILA@DIZONFARMS.NET",
+    "name": "-",
+    "sent_time": "2025-04-24 18:36:30",
+    "opened": false,
+    "replied": false
+  },
+  "76d69e67-4d98-4f89-b70d-dd58a143c824": {
+    "recipient": "baylonj@dizonfarms.net",
+    "name": "Jheslyn Baylon",
+    "sent_time": "2025-04-24 18:36:36",
+    "opened": false,
+    "replied": false
+  },
+  "f62f0c1f-c46a-43b9-9ea8-feb3d9fa3613": {
+    "recipient": "OPERATIONS@CEVALOGISTICS.COM",
+    "name": "-",
+    "sent_time": "2025-04-25 13:22:38",
+    "opened": false,
+    "replied": false
+  },
+  "2758b93f-db21-482a-b0a8-d212f5608800": {
+    "recipient": "INFO@PRIMESTSUPPORT.COM",
+    "name": "-",
+    "sent_time": "2025-04-25 13:22:44",
+    "opened": false,
+    "replied": false
+  },
+  "b16f7e7d-a173-4a96-ac43-2431a82ddf56": {
+    "recipient": "ckramer@rivertrade.com",
+    "name": "ckramer",
+    "sent_time": "2025-04-25 13:22:50",
+    "opened": false,
+    "replied": false
+  },
+  "a59ff7a6-c273-4fe4-9cdb-5faf072dba97": {
+    "recipient": "weisst@rivertrade.com",
+    "name": "weisst",
+    "sent_time": "2025-04-25 13:22:57",
+    "opened": false,
+    "replied": false
+  },
+  "ccdc0d19-fea9-4874-84a0-22c2fe9c8c0c": {
+    "recipient": "tomm@rivertrade.com",
+    "name": "tomm",
+    "sent_time": "2025-04-25 13:23:03",
+    "opened": false,
+    "replied": false
+  },
+  "31ff8e72-fec4-4200-b628-c37237a4448a": {
+    "recipient": "sittlow@rivertrade.com",
+    "name": "sittlow",
+    "sent_time": "2025-04-25 13:23:09",
+    "opened": false,
+    "replied": false
+  },
+  "13770688-a607-4c32-86d5-3148027962ec": {
+    "recipient": "johno@rivertrade.com",
+    "name": "johno",
+    "sent_time": "2025-04-25 13:23:15",
+    "opened": false,
+    "replied": false
+  },
+  "d72a30d5-8e99-47e6-add3-6dfd6dded33b": {
+    "recipient": "abudge@rivertrade.com",
+    "name": "abudge",
+    "sent_time": "2025-04-25 13:23:22",
+    "opened": false,
+    "replied": false
+  },
+  "df8e0f33-73b0-4719-9785-6fc91568ae97": {
+    "recipient": "HUSTON@rivertrade.com",
+    "name": "HUSTON",
+    "sent_time": "2025-04-25 13:23:28",
+    "opened": false,
+    "replied": false
+  },
+  "744451d2-186d-43a6-8805-68e6468f1639": {
+    "recipient": "keillor@rivertrade.com",
+    "name": "keillor",
+    "sent_time": "2025-04-25 13:23:35",
+    "opened": false,
+    "replied": false
+  },
+  "0ca4eb82-ce77-4ff0-b362-79991771a04a": {
+    "recipient": "alford@rivertrade.com",
+    "name": "alford",
+    "sent_time": "2025-04-25 13:23:41",
+    "opened": false,
+    "replied": false
+  },
+  "238397e9-4cf5-478d-bdc6-a4ee85ed6e37": {
+    "recipient": "bradley1@rivertrade.com",
+    "name": "bradley1",
+    "sent_time": "2025-04-25 13:23:47",
+    "opened": false,
+    "replied": false
+  },
+  "7e4622b9-7570-4fb5-9479-842d3fbf4e6e": {
+    "recipient": "brian@rivertrade.com",
+    "name": "brian",
+    "sent_time": "2025-04-25 13:23:54",
+    "opened": false,
+    "replied": false
+  },
+  "85a4c977-6668-4fc4-8824-dd1c57792f7f": {
+    "recipient": "chambers@rivertrade.com",
+    "name": "chambers",
+    "sent_time": "2025-04-25 13:24:00",
+    "opened": false,
+    "replied": false
+  },
+  "02874d24-3f2d-42c0-8ded-eada4291a12e": {
+    "recipient": "cnelson1@rivertrade.com",
+    "name": "cnelson1",
+    "sent_time": "2025-04-25 13:24:07",
+    "opened": false,
+    "replied": false
+  },
+  "736d6f6d-339c-458c-ad9b-81e85ef28e7a": {
+    "recipient": "dano@rivertrade.com",
+    "name": "dano",
+    "sent_time": "2025-04-25 13:24:13",
+    "opened": false,
+    "replied": false
+  },
+  "0a61e308-3404-4b48-ac2f-2033c9e1fd11": {
+    "recipient": "debrae@rivertrade.com",
+    "name": "debrae",
+    "sent_time": "2025-04-25 13:24:19",
+    "opened": false,
+    "replied": false
+  },
+  "1e0a5426-0919-475b-b918-a6bd96d1e0aa": {
+    "recipient": "econrad@rivertrade.com",
+    "name": "econrad",
+    "sent_time": "2025-04-25 13:24:26",
+    "opened": false,
+    "replied": false
+  },
+  "c79992b0-6975-478c-b919-6eda14351381": {
+    "recipient": "garlow@rivertrade.com",
+    "name": "garlow",
+    "sent_time": "2025-04-25 13:24:32",
+    "opened": false,
+    "replied": false
+  },
+  "59d155a5-b5e3-4fc7-bba8-f9348ea6c9d2": {
+    "recipient": "hart@rivertrade.com",
+    "name": "hart",
+    "sent_time": "2025-04-25 13:24:38",
+    "opened": false,
+    "replied": false
+  },
+  "c81396b8-57f9-462d-9556-c69d66997fbf": {
+    "recipient": "PRIMEPACIFICFOODS@GMAIL.COM",
+    "name": "-",
+    "sent_time": "2025-04-28 11:26:07",
+    "opened": false,
+    "replied": false
+  },
+  "71fd1008-d96d-42e9-aff0-becaf46aa03d": {
+    "recipient": "YUNUS@DELISARI.COM",
+    "name": "-",
+    "sent_time": "2025-04-28 11:26:13",
+    "opened": false,
+    "replied": false
+  },
+  "2a69751c-c137-46c7-98aa-24c5d8a36cbc": {
+    "recipient": "intenm@delisari.com",
+    "name": "Inten Mulyaputri",
+    "sent_time": "2025-04-28 11:26:20",
+    "opened": false,
+    "replied": false
+  },
+  "a3833a9c-115c-4428-88bf-64994ffe4d22": {
+    "recipient": "sales.jkt11@delisari.com",
+    "name": "sales jkt11",
+    "sent_time": "2025-04-28 11:26:26",
+    "opened": false,
+    "replied": false
+  },
+  "3b4723be-0c24-4160-bfcd-3e2bceca2dd5": {
+    "recipient": "jaka.kusuma@delisari.com",
+    "name": "jaka kusuma",
+    "sent_time": "2025-04-28 11:26:33",
+    "opened": false,
+    "replied": false
+  },
+  "1056d2af-7017-4ed8-8281-1a913aae7359": {
+    "recipient": "haris.setiawan@delisari.com",
+    "name": "haris setiawan",
+    "sent_time": "2025-04-28 11:26:39",
+    "opened": false,
+    "replied": false
+  },
+  "bb11f616-bd51-4515-9f08-e47340559f13": {
+    "recipient": "marcomm.team@delisari.com",
+    "name": "marcomm team",
+    "sent_time": "2025-04-28 11:26:45",
+    "opened": false,
+    "replied": false
+  },
+  "1414d912-2e1d-4bac-a61e-b59c7fb7b259": {
+    "recipient": "retail.manager@delisari.com",
+    "name": "retail manager",
+    "sent_time": "2025-04-28 11:26:52",
+    "opened": false,
+    "replied": false
+  },
+  "79ed5f3a-ed7e-4b59-8cf5-9c0de7b6c3ee": {
+    "recipient": "sales.jkt8@delisari.com",
+    "name": "sales jkt8",
+    "sent_time": "2025-04-28 11:26:58",
+    "opened": false,
+    "replied": false
+  },
+  "e44e3773-76ce-4f77-a893-9206986ab9bb": {
+    "recipient": "rio.kurnia@delisari.com",
+    "name": "rio kurnia",
+    "sent_time": "2025-04-28 11:27:04",
+    "opened": false,
+    "replied": false
+  },
+  "307da77c-cf6e-46b4-9e02-42efed63cdf0": {
+    "recipient": "dfrimasanti@delisari.com",
+    "name": "dfrimasanti",
+    "sent_time": "2025-04-28 11:27:10",
+    "opened": false,
+    "replied": false
+  },
+  "3feadca7-fad4-47e3-b4dd-5b1b04f5f1f9": {
+    "recipient": "all-nsm@delisari.com",
+    "name": "all-nsm",
+    "sent_time": "2025-04-28 11:27:18",
+    "opened": false,
+    "replied": false
+  },
+  "caa18d05-9c92-4e1d-b57d-b61e07cf1d8b": {
+    "recipient": "dsn.medan@delisari.com",
+    "name": "dsn medan",
+    "sent_time": "2025-04-28 11:27:24",
+    "opened": false,
+    "replied": false
+  },
+  "30851344-5a93-421c-a0b7-0ca2e6f5d085": {
+    "recipient": "se.makasar@delisari.com",
+    "name": "se makasar",
+    "sent_time": "2025-04-28 11:27:32",
+    "opened": false,
+    "replied": false
+  },
+  "706d0c58-e7b9-4220-9217-cd8826266040": {
+    "recipient": "raharjo@delisari.com",
+    "name": "raharjo",
+    "sent_time": "2025-04-28 11:27:38",
+    "opened": false,
+    "replied": false
+  },
+  "f1dcda79-078c-4ed9-8de1-76de2661a55a": {
+    "recipient": "dadang.isdiyanto@delisari.com",
+    "name": "dadang isdiyanto",
+    "sent_time": "2025-04-28 11:27:44",
+    "opened": false,
+    "replied": false
+  },
+  "a8c6c3d3-f069-493c-a24d-642e40e8921f": {
+    "recipient": "yenni@delisari.com",
+    "name": "yenni",
+    "sent_time": "2025-04-28 11:27:50",
+    "opened": false,
+    "replied": false
+  },
+  "446f5084-b2fe-4e3e-ac71-45c5a6fe1ef1": {
+    "recipient": "jamirahardjo@delisari.com",
+    "name": "jamirahardjo",
+    "sent_time": "2025-04-28 11:27:57",
+    "opened": false,
+    "replied": false
+  },
+  "8c6bdaf8-d4d1-48f4-bbe1-d319808ca2b3": {
+    "recipient": "andreas.widiananto@delisari.com",
+    "name": "andreas widiananto",
+    "sent_time": "2025-04-28 11:28:04",
+    "opened": false,
+    "replied": false
+  },
+  "f949ae2a-e202-485b-80d9-1d8790551fea": {
+    "recipient": "benny@delisari.com",
+    "name": "benny",
+    "sent_time": "2025-04-28 11:28:10",
+    "opened": false,
+    "replied": false
   }
 }

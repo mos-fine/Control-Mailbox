@@ -2,12 +2,21 @@
   "daily_count": 20,
   "target_countries": [],
   "target_regions": [
-    "南美洲"
+    "东南亚"
   ],
-  "send_time": "20:00",
-  "template_name": "B_template.html",
+  "send_time": "09:00",
+  "workdays": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "template_name": "C_template.html",
   "is_running": true,
-  "last_run_date": "2025-04-17",
+  "last_run_date": null,
   "last_sent_count": 0,
   "last_opened_count": 0
 }

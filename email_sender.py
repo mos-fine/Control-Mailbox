@@ -294,11 +294,6 @@ def send_email(recipient):
     if not to_email:
         logger.error(f"收件人 {name} 没有邮箱地址")
         return False
-        
-    # 检查是否已经给该邮箱发送过邮件
-    if check_email_already_sent(to_email):
-        logger.info(f"邮箱 {to_email} 已经发送过邮件，跳过发送")
-        return False
     
     # 生成唯一邮件ID
     email_id = str(uuid.uuid4())
