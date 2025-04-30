@@ -12,6 +12,7 @@ import threading
 import time
 import logging
 import logging.handlers
+import asyncio
 from typing import List, Dict, Optional, Union
 from fastapi import FastAPI, HTTPException, BackgroundTasks, Request
 from starlette.middleware.base import BaseHTTPMiddleware
@@ -435,16 +436,77 @@ async def email_sending_task():
     
     if not EMAIL_TASK_CONFIG['is_running']:
         print("任务未启动")
-        return
+        return 0
         
     # 检查是否是今天已经运行过
     today = datetime.datetime.now().strftime('%Y-%m-%d')
     if EMAIL_TASK_CONFIG['last_run_date'] == today:
         print("今天已经运行过任务")
-        return
+        return 0
 
+    # 准备发送邮件的参数
+    countries_to_send = []
+    
+    # 处理区域或国家（优先使用区域）
+    if EMAIL_TASK_CONFIG['target_regions'] and len(EMAIL_TASK_CONFIG['target_regions']) > 0:
+        # 如果指定了区域，将区域扩展为对应的国家列表
+        countries_to_send = expand_regions_to_countries(EMAIL_TASK_CONFIG['target_regions'])
+        print(f"按区域发送邮件: {', '.join(EMAIL_TASK_CONFIG['target_regions'])}")
+    elif EMAIL_TASK_CONFIG['target_countries'] and len(EMAIL_TASK_CONFIG['target_countries']) > 0:
+        # 如果只指定了国家列表，则直接使用
+        countries_to_send = list(EMAIL_TASK_CONFIG['target_countries'])
+        print(f"按国家发送邮件: {', '.join(EMAIL_TASK_CONFIG['target_countries'])}")
+    else:
+        print(f"未指定目标区域或国家，将发送给所有国家")
+    
+    print(f"目标国家列表：{countries_to_send}")
+    
+    # 获取收件人
+    recipients = get_recipients_from_db(EMAIL_TASK_CONFIG['daily_count'] * 3, countries_to_send)
+    if not recipients:
+        print("没有符合条件的收件人")
+        return 0
+    
+    print(f"找到 {len(recipients)} 个潜在收件人")
+    
+    # 获取要使用的模板名称
+    template_name = EMAIL_TASK_CONFIG['template_name']
+    print(f"使用邮件模板: {template_name}")
+    
+    # 加载邮件模板
+    load_template(template_name)
+    
+    # 初始化连接
+    init_connections()
+    
     # 发送邮件
-    success_count = await send_email_batch()
+    success_count = 0
+    target_success_count = EMAIL_TASK_CONFIG['daily_count']  # 目标成功发送数量
+    processed_emails = set()  # 用于跟踪已处理的邮箱地址
+    
+    # 尝试发送邮件给获取的收件人
+    for recipient in recipients:
+        # 检查是否已达到目标数量
+        if success_count >= target_success_count:
+            break
+            
+        # 检查是否已处理过该邮箱
+        recipient_email = recipient.get('email', '').strip().upper()
+        if not recipient_email or recipient_email in processed_emails:
+            continue
+            
+        # 标记该邮箱已处理
+        processed_emails.add(recipient_email)
+        
+        # 尝试发送邮件
+        if send_email(recipient):
+            success_count += 1
+            print(f"成功发送至 {recipient_email}，当前进度: {success_count}/{target_success_count}")
+        else:
+            print(f"发送至 {recipient_email} 失败或已经发送过，跳过")
+            
+        # 短暂延迟，避免被识别为垃圾邮件发送者
+        await asyncio.sleep(5)
     
     # 更新任务状态
     EMAIL_TASK_CONFIG['last_run_date'] = today
@@ -459,7 +521,17 @@ async def email_sending_task():
     # 保存到配置文件作为备份
     save_config()
     
+    # 更新跟踪服务器的发送统计
+    try:
+        requests.post(
+            f"{EMAIL_CONFIG['tracker_url']}/stats/update",
+            json={'sent': success_count}
+        )
+    except Exception as e:
+        print(f"更新跟踪服务器统计信息失败: {e}")
+    
     print(f"邮件发送任务完成，成功发送: {success_count} 封邮件")
+    return success_count
 
 # 临时发送邮件任务
 def temp_email_sending_task(count: int, target_countries: List[str] = None, target_regions: List[str] = None, template_name: str = "C_template.html"):
@@ -627,6 +699,21 @@ def get_next_run_time():
     
     return result
 
+# 创建一个包装函数来执行异步任务
+def run_async_task(coroutine_func):
+    """包装异步任务，使其可以在同步环境中运行"""
+    import asyncio
+    
+    # 获取当前事件循环或创建新的事件循环
+    try:
+        loop = asyncio.get_event_loop()
+    except RuntimeError:
+        loop = asyncio.new_event_loop()
+        asyncio.set_event_loop(loop)
+    
+    # 运行异步任务直到完成
+    return loop.run_until_complete(coroutine_func())
+
 # 修改定时任务调度器
 def run_scheduler():
     """运行定时任务调度器，并显示倒计时"""
@@ -744,10 +831,10 @@ async def start_task(config: EmailTaskConfig, background_tasks: BackgroundTasks)
         6: schedule.every().sunday
     }
     
-    # 添加邮件发送任务
+    # 添加邮件发送任务，使用包装函数执行异步任务
     for workday in config.workdays:
         if workday in workday_map:
-            workday_map[workday].at(config.send_time).do(email_sending_task)
+            workday_map[workday].at(config.send_time).do(lambda: run_async_task(email_sending_task))
     
     # 设置其他定时任务
     schedule.every(1).hours.do(check_replies)
@@ -813,6 +900,7 @@ async def get_stats(date: Optional[str] = None, all_data: bool = False):
 @app.post("/send-now", tags=["任务控制"])
 async def send_now(background_tasks: BackgroundTasks):
     """立即执行一次邮件发送任务，不影响原有的定时任务"""
+    # 直接在异步上下文中调用异步函数
     background_tasks.add_task(email_sending_task)
     return {"message": "邮件发送任务已在后台启动，请稍后查看统计数据"}
 
@@ -866,10 +954,10 @@ async def startup_event():
                 6: schedule.every().sunday
             }
             
-            # 添加邮件发送任务
+            # 添加邮件发送任务，使用包装函数执行异步任务
             for workday in EMAIL_TASK_CONFIG['workdays']:
                 if workday in workday_map:
-                    workday_map[workday].at(EMAIL_TASK_CONFIG['send_time']).do(email_sending_task)
+                    workday_map[workday].at(EMAIL_TASK_CONFIG['send_time']).do(lambda: run_async_task(email_sending_task))
             
             # 设置其他定时任务
             schedule.every(1).hours.do(check_replies)

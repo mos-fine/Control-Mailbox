@@ -2,9 +2,9 @@
   "daily_count": 20,
   "target_countries": [],
   "target_regions": [
-    "东南亚"
+    "['东南亚']"
   ],
-  "send_time": "09:00",
+  "send_time": "17:18",
   "workdays": [
     0,
     1,
@@ -14,9 +14,13 @@
     5,
     6
   ],
-  "template_name": "C_template.html",
+  "template_name": "B_template.html",
   "is_running": true,
-  "last_run_date": null,
-  "last_sent_count": 0,
-  "last_opened_count": 0
+  "last_run_date": "2025-04-30",
+  "last_sent_count": 20,
+  "last_opened_count": 0,
+  "id": 1,
+  "task_name": "default_task",
+  "created_at": "2025-04-25 22:12:32",
+  "updated_at": "2025-04-30 17:13:03"
 }
